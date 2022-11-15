@@ -1,0 +1,11 @@
+C:\Users\ahmet.celik\source\repos\Vote\Vote\bin\Debug\Vote.exe.config
+C:\Users\ahmet.celik\source\repos\Vote\Vote\bin\Debug\Vote.exe
+C:\Users\ahmet.celik\source\repos\Vote\Vote\bin\Debug\Vote.pdb
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.csprojAssemblyReference.cache
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.FrmOyGiris.resources
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.FrmGrafikler.resources
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.Properties.Resources.resources
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.csproj.GenerateResource.cache
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.exe
+C:\Users\ahmet.celik\source\repos\Vote\Vote\obj\Debug\Vote.pdb
